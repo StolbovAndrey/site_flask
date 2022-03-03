@@ -14,3 +14,4 @@ __pycache__/
 *test*
 /migrations
 !requirements.txt
+!Procfile.txt
