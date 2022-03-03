@@ -1,0 +1,16 @@
+*.jpg
+*.svg
+*.png
+*.ico
+*.ini
+venv/
+.idea/
+*.txt
+*.pak
+*.zip
+*.bin
+*.pdf
+__pycache__/
+*test*
+/migrations
+!requirements.txt
